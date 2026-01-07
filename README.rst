@@ -5,7 +5,7 @@
 pyclean |pypi-latest| |conda-latest|
 ====================================
 
-|checks-status| |tests-status| |publish-status| |download-stats| |scrutinizer| |codacy| |python-versions| |python-impl| |license|
+|checks-status| |tests-status| |publish-status| |download-stats| |python-versions| |python-impl| |license|
 
 Worried about ``.pyc`` files and ``__pycache__`` directories? Fear not!
 PyClean is here to help. Finally, the single-command clean up for Python
@@ -33,12 +33,6 @@ bytecode files in your favorite directories. On any platform.
 .. |publish-status| image:: https://github.com/bittner/pyclean/actions/workflows/publish.yml/badge.svg
    :target: https://github.com/bittner/pyclean/actions/workflows/publish.yml
    :alt: GitHub Workflow Status
-.. |scrutinizer| image:: https://img.shields.io/scrutinizer/build/g/bittner/pyclean/main?logo=scrutinizer&label=%22
-   :target: https://scrutinizer-ci.com/g/bittner/pyclean/
-   :alt: Scrutinizer
-.. |codacy| image:: https://img.shields.io/codacy/grade/69de1364a09f41b399f95afe901826eb/main.svg?logo=codacy&label=%22
-   :target: https://app.codacy.com/gh/bittner/pyclean/dashboard
-   :alt: Code health
 .. |python-versions| image:: https://img.shields.io/pypi/pyversions/pyclean.svg
    :target: https://pypi.org/project/pyclean
    :alt: Python versions
